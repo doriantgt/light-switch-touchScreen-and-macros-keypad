@@ -1,3 +1,3 @@
 # light-switch-touchScreen-and-macros-keypad
 
-You may need to pull these folders out and put them into your library folder seperatly.
+Put this folder into your arduino library. Pull out esp32_ble_master and TFT_espi_Maser and also put them into your arduino library.
