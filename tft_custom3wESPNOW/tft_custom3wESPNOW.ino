@@ -25,7 +25,7 @@
 #include <esp_now.h>
 #include <WiFi.h>
 
-#include "ledDictionary.h"
+//#include "ledDictionary.h" 
 #include "basicTimer.cpp"
 
 
